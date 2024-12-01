@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "daniel",
+    "name": "Dynamic Camera",
+    "description": "",
+    "version": "1.1",
+    "credits": "",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "McCDcardGuy - (McCDcardMaster)"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "false"
+  }
+]
